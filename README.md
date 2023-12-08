@@ -1,6 +1,6 @@
 # Accredian
 
-Frontend : https://accredian-gaurav.netlify.app/
+Frontend : 
 
 # Installation
 
@@ -9,13 +9,13 @@ Frontend : https://accredian-gaurav.netlify.app/
 For HTTP
 
 ```sh
-git clone https://github.com/gaurav147-star/accredian-frontend
+git clone https://github.com/agnihotri099/frontend-accredian
 ```
 
 Backend repo:
 
 ```sh
-git clone https://github.com/gaurav147-star/accredian-backend
+git clone https://github.com/agnihotri099/backend-accredian
 ```
 
 2. Install dependencies
@@ -44,8 +44,10 @@ npm run start
   password: "",
   database: "",
 ```
-![image](https://github.com/gaurav147-star/accredian-frontend/assets/78996081/a7af3338-1632-4853-9763-081f7492a3c8)
-![image](https://github.com/gaurav147-star/accredian-frontend/assets/78996081/62596b20-326c-4d6c-8ed3-71852663c909)
-![image](https://github.com/gaurav147-star/accredian-frontend/assets/78996081/aa2d34e9-d8b6-466e-8e4b-4934024d1772)
 
+![image](https://github.com/agnihotri099/frontend-accredian/assets/85986348/c4988b9f-7aeb-406a-9757-90af7291daed)
+
+![image](https://github.com/agnihotri099/frontend-accredian/assets/85986348/a7722a64-cd03-4a73-918a-d52ac9d6ba17)
+
+![image](https://github.com/agnihotri099/frontend-accredian/assets/85986348/3330a61f-ab08-48cc-85e9-0a045c08b1dc)
 
