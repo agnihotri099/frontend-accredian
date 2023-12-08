@@ -46,7 +46,7 @@ const Home = () => {
           color:"white"
         }}
       >
-        <h1>Welcome to the Rishabh Agnihotri</h1>
+        <h1>Welcome to the My page</h1>
         {/* Add other content or components for the home page */}
       </div>
     </div>
